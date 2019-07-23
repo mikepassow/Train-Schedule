@@ -8,11 +8,10 @@ Real time train schedule
 <hr>
 Train-Schedule is a web application that takes in user input about a train (train name, destination, first train time, and frequency) and displays the following information about the train:
 <ul>
-train name
-destination
-frequency
-next arrival
-minutes away
+<li>train name</li>
+<li>destination</li>
+<li>frequency</li>
+<li>minutes away</li>
 </ul>
 <p>
 Next arrival and minutes away are automatically calculated as current time passes.
