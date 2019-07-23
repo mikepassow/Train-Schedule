@@ -1,3 +1,7 @@
+
+
+
+
 $(document).ready(function(){
     var config = {
         apiKey: "AIzaSyBNM4mVUjkwlyePT9iPkEsAwv_ta4XzuEM",
@@ -39,7 +43,7 @@ $(document).ready(function(){
     });
 
     database.ref().on("child_added", function(childSnapshot) {
-        var nextArr;
+    
         var minAway;
         // Chang year so first train comes before now
         var firstTrainNew = moment(childSnapshot.val().firstTrain, "hh:mm").subtract(1, "years");
