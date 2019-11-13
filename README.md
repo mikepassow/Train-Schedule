@@ -19,5 +19,16 @@ Next arrival and minutes away are automatically calculated as current time passe
 
 <h3>Screenshots Of How It Works</h3>
 
-<img >
+<div>
+ <img src="1.png" width="400px"> 
+ </div>
+<hr>
+  <div>
+ <img src="2.png" width="400px"> 
+ </div>
+ <hr>
+ <div>
+ <img src="3.png" width="400px"> 
+ <hr>
+ </div>
 
