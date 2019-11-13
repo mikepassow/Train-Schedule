@@ -17,3 +17,7 @@ Train-Schedule is a web application that takes in user input about a train (trai
 Next arrival and minutes away are automatically calculated as current time passes.
 </p>
 
+<h3>Screenshots Of How It Works</h3>
+
+<img >
+
